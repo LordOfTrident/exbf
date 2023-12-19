@@ -23,8 +23,14 @@ and to see how good it is for CLI app developement (spoiler: not very good, shou
 to server related stuff).
 
 ## Table of contents
+* [Demo](#demo)
 * [Quickstart](#quickstart)
 * [Bugs](#bugs)
+
+## Demo
+<p align="center">
+	<img src="./res/exbf.gif" width="80%">
+</p>
 
 ## Quickstart
 ```sh
